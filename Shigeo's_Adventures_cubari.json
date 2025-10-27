@@ -3,7 +3,7 @@
   "description": "Shigeo and his adventures written by Freehand Tamashii",
   "artist": "Freehand Tamashii",
   "author": "Freehand Tamashii",
-  "cover": "",
+  "cover": "https://files.catbox.moe/xsm2je.webp",
   "status": "Completed",
   "chapters": {
     "1": {
@@ -528,8 +528,8 @@
           "https://files.catbox.moe/u9gec3.jpg"
         ]
       }
-    },
-    "11": {}
+    }
   }
 
 }
+
