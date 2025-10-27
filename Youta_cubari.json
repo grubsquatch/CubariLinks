@@ -3,7 +3,7 @@
   "description": "Youta and aunt Saeko by Freehand Tamashii",
   "artist": "Freehand Tamashii",
   "author": "Freehand Tamashii",
-  "cover": "",
+  "cover": "https://files.catbox.moe/o5c0ma.jpg",
   "status": "Ongoing",
   "chapters": {
     "1": {
@@ -117,4 +117,5 @@
     },
     "3": {}
   }
+
 }
