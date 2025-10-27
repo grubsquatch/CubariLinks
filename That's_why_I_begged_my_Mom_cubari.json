@@ -1,11 +1,14 @@
 {
-  "series": "That's why I begged my Mom",
-  "uploader": "Xiffy",
+  "title": "That's why I begged my mom",
   "description": "Freehand Tamashii's series , that's why I begged my mom",
-  "language": "en",
+  "artist": "Freehand Tamashii",
+  "author": "Freehand Tamashii",
+  "cover": "",
   "chapters": {
     "01 - That's Why I Begged Mom To Fuck Me": {
       "title": "01 - That's Why I Begged Mom To Fuck Me",
+      "volume": "",
+      "last_updated": "1761548390",
       "groups": {
         "Xiffy": [
           "https://files.catbox.moe/b8ycir.jpg",
@@ -56,6 +59,8 @@
     },
     "02 - That's Why I Just Do My Work with Mom": {
       "title": "02 - That's Why I Just Do My Work with Mom",
+      "volume": "",
+      "last_updated": "1761548390",
       "groups": {
         "Xiffy": [
           "https://files.catbox.moe/nbjhwa.jpg",
@@ -105,7 +110,6 @@
           "https://files.catbox.moe/zclubm.png"
         ]
       }
-    },
-    "CBZ_Files": {}
+    }
   }
 }
