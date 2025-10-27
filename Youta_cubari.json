@@ -4,10 +4,9 @@
   "artist": "Freehand Tamashii",
   "author": "Freehand Tamashii",
   "cover": "https://files.catbox.moe/o5c0ma.jpg",
-  "status": "Ongoing",
   "chapters": {
     "1": {
-      "title": "01 - Isourou Saki no Obasan ni Hameru!",
+      "title": "Isourou Saki no Obasan ni Hameru!",
       "volume": "1",
       "last_updated": "1761550052",
       "groups": {
@@ -66,7 +65,7 @@
       }
     },
     "2": {
-      "title": "02 - Okazu wa Kyou mo, Tsuma no Botebara Noukou Sex",
+      "title": "Okazu wa Kyou mo, Tsuma no Botebara Noukou Sex",
       "volume": "1",
       "last_updated": "1761550269",
       "groups": {
@@ -114,8 +113,6 @@
           "https://files.catbox.moe/7c9d5a.jpg"
         ]
       }
-    },
-    "3": {}
+    }
   }
-
 }
