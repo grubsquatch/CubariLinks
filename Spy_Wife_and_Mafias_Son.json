@@ -1,0 +1,30 @@
+{
+  "title": "Spy Wife and Mafia’s Son",
+  "description": "Minazuki Mikka's series Spy Wife and Mafia's Son",
+  "artist": "Minazuki Mikka's",
+  "author": "Minazuki Mikka's",
+  "cover": "https://files.catbox.moe/rx7rf3.webp",
+  "chapters": {
+    "002": {
+      "title": "- Spy Wife and Mafia's Son 2",
+      "last_updated": "1772565953",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ne7b325bgy5"
+      }
+    },
+    "001": {
+      "title": "- Spy Wife and Mafia’s Son 1 ~Black Gyaru Police Officer~",
+      "last_updated": "1772565955",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/dl7p6kvoj4o"
+      }
+    },
+    "003": {
+      "title": "- Spy Wife and Mafia’s Son 3",
+      "last_updated": "1772565957",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/md7ove9olyp"
+      }
+    }
+  }
+}
