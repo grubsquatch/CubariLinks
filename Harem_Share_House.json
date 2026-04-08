@@ -4,5 +4,34 @@
   "artist": "Mahiro Ootori",
   "author": "Mahiro Ootori",
   "cover": "https://files.catbox.moe/u0snzb.png",
-  "chapters": {}
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1775675802",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/dl7pr8b9j4o"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775675803",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ne7brqjvgy5"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775675806",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/md7od8kxlyp"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775675808",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/na7k28gew78"
+      }
+    }
+  }
 }
