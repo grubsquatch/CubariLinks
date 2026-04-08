@@ -1,0 +1,37 @@
+{
+  "title": "Kosmos Ga Saita Hi Ni",
+  "description": "",
+  "artist": "Arai Kei",
+  "author": "Arai Kei",
+  "cover": "https://files.catbox.moe/mzlqtb.avif",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1775668935",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/agyvgrgajy8"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775668939",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/m9yx535lq7q"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775668944",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9249m3m5m7n"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775668965",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/a846qdqzoyx"
+      }
+    }
+  }
+}
