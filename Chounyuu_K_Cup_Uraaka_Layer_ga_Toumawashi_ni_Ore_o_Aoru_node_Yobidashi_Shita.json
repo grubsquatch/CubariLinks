@@ -1,0 +1,30 @@
+{
+  "title": "Chounyuu K-Cup Uraaka Layer ga Toumawashi ni Ore o Aoru node Yobidashi Shita",
+  "description": "Comic Description",
+  "artist": "thomas",
+  "author": "thomas",
+  "cover": "https://files.catbox.moe/uuv3my.webp",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1775668866",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/pg732l23j4r"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775668866",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/n87w8m82g7x"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775668868",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/lqyewmwoqyd"
+      }
+    }
+  }
+}
