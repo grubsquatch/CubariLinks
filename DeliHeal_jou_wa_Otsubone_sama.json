@@ -1,0 +1,23 @@
+{
+  "title": "DeliHeal-jou wa Otsubone-sama",
+  "description": "The Delivery Health Girl is the Veteran Office Lady",
+  "artist": "tetsukui",
+  "author": "tetsukui",
+  "cover": "https://files.catbox.moe/796sp3.jpg",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1775669664",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/5xy2x2x6z4l"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775669666",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/wl7llolbx7x"
+      }
+    }
+  }
+}
