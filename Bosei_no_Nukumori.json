@@ -1,0 +1,23 @@
+{
+  "title": "Bosei no Nukumori",
+  "description": "",
+  "artist": "Yokoyama Michiru",
+  "author": "Yokoyama Michiru",
+  "cover": "https://files.catbox.moe/i7il3h.webp",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1775668813",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/na7k2822q78"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775668815",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/5xy2x2xxj4l"
+      }
+    }
+  }
+}
