@@ -1,0 +1,37 @@
+{
+  "title": "Get Your XXX Pregnant",
+  "description": "",
+  "artist": "sakai",
+  "author": "sakai",
+  "cover": "https://files.catbox.moe/cfdmrr.jpg",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1775670237",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/xny8rmrd24b"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775670250",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/n87w8m83x7x"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775670269",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/bp45jqjlny5"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775670277",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qb4zlnlz57j"
+      }
+    }
+  }
+}
