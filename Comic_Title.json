@@ -1,0 +1,23 @@
+{
+  "title": "Comic Title",
+  "description": "My youth at full tilt was nostalgia for the senses.",
+  "artist": "Dramus",
+  "author": "Dramus",
+  "cover": "https://files.catbox.moe/ycnpjh.png",
+  "chapters": {
+    "002": {
+      "title": "- Dear Anal Vampire-senpai Ch.2",
+      "last_updated": "1775669585",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/a846qdqboyx"
+      }
+    },
+    "001": {
+      "title": "- Dear Anal Vampire-senpai Ch.1",
+      "last_updated": "1775669588",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/agyvgrg8jy8"
+      }
+    }
+  }
+}
