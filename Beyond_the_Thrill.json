@@ -1,0 +1,23 @@
+{
+  "title": "Beyond the Thrill",
+  "description": "[Cleanendme] Beyond the Thrill (weekly kairakuten 2025-02)",
+  "artist": "Cleanendme",
+  "author": "Cleanendme",
+  "cover": "https://files.catbox.moe/ajw15d.png",
+  "chapters": {
+    "002": {
+      "title": "- Beyond the Thrill - After-Pill",
+      "last_updated": "1775668508",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/pg732l28z4r"
+      }
+    },
+    "001": {
+      "title": "- Beyond the Thrill",
+      "last_updated": "1775668540",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/n87w8m88z7x"
+      }
+    }
+  }
+}
