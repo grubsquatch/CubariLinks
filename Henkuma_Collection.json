@@ -1,0 +1,149 @@
+{
+  "title": "Henkuma Collection",
+  "description": "Collection of comics/manga/doujinshi from Henkuma",
+  "artist": "Henkuma",
+  "author": "Henkuma",
+  "cover": "https://files.catbox.moe/b1nw5k.jpg",
+  "chapters": {
+    "003": {
+      "title": "",
+      "last_updated": "1775718841",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/m9yx59xpm7q"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775718845",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/agyvgxzpwy8"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775718846",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9249m2xnv7n"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775718847",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/a846q3rngyx"
+      }
+    },
+    "007": {
+      "title": "",
+      "last_updated": "1775718877",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/md7odazpayp"
+      }
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1775718882",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/dl7pragp84o"
+      }
+    },
+    "006": {
+      "title": "",
+      "last_updated": "1775718882",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/na7k2axpk78"
+      }
+    },
+    "008": {
+      "title": "",
+      "last_updated": "1775718893",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/5xy2xqz5n4l"
+      }
+    },
+    "009": {
+      "title": "",
+      "last_updated": "1775718921",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9ryd3ql9d7k"
+      }
+    },
+    "011": {
+      "title": "",
+      "last_updated": "1775718927",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/6eyr3arkkyp"
+      }
+    },
+    "012": {
+      "title": "",
+      "last_updated": "1775718928",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/pg732dkav4r"
+      }
+    },
+    "010": {
+      "title": "",
+      "last_updated": "1775718932",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ej7mjazpq7d"
+      }
+    },
+    "015": {
+      "title": "",
+      "last_updated": "1775718975",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/a846q3rbgyx"
+      }
+    },
+    "014": {
+      "title": "",
+      "last_updated": "1775718982",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/bp45jmkbxy5"
+      }
+    },
+    "013": {
+      "title": "",
+      "last_updated": "1775718984",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/xny8repkp4b"
+      }
+    },
+    "016": {
+      "title": "",
+      "last_updated": "1775718998",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/agyvgxz8wy8"
+      }
+    },
+    "017": {
+      "title": "",
+      "last_updated": "1775719030",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9p4nqvgdw4n"
+      }
+    },
+    "020": {
+      "title": "",
+      "last_updated": "1775719031",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/dl7pragm84o"
+      }
+    },
+    "018": {
+      "title": "",
+      "last_updated": "1775719037",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/md7odazrayp"
+      }
+    },
+    "019": {
+      "title": "",
+      "last_updated": "1775719048",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ne7brlgzky5"
+      }
+    }
+  }
+}
