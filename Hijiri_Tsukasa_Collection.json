@@ -1,0 +1,37 @@
+{
+  "title": "Hijiri Tsukasa Collection",
+  "description": "Collection of comics/manga/doujinshi from Hijiri Tsukasa",
+  "artist": "Hijiri Tsukasa",
+  "author": "Hijiri Tsukasa",
+  "cover": "https://files.catbox.moe/plrppq.avif",
+  "chapters": {
+    "009": {
+      "title": "",
+      "last_updated": "1775721926",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ej7mjam397d"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775721932",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/6eyr3agxxyp"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775721939",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9ryd3q5ja7k"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775721955",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/pg732d9bg4r"
+      }
+    }
+  }
+}
