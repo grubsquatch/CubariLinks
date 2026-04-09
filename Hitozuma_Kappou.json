@@ -1,0 +1,23 @@
+{
+  "title": "Hitozuma Kappou",
+  "description": "",
+  "artist": "choukutetsushitsugan",
+  "author": "choukutetsushitsugan",
+  "cover": "https://files.catbox.moe/e2rwox.jpg",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1775725136",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qe4gzmdzb7j"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775725137",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/xny8rexrd4b"
+      }
+    }
+  }
+}
