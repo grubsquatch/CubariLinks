@@ -1,0 +1,44 @@
+{
+  "title": "Lust Summer",
+  "description": "",
+  "artist": "kuronomiki",
+  "author": "kuronomiki",
+  "cover": "https://files.catbox.moe/w2ndwh.avif",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1775834065",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9p4nqv5bz4n"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775834071",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/dl7praxo64o"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775834082",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/md7oda6odyp"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775834083",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ne7brl8bny5"
+      }
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1775834099",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/vj4j5erb278"
+      }
+    }
+  }
+}
