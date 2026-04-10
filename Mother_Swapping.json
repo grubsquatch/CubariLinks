@@ -4,5 +4,27 @@
   "artist": "hoshiduki melon",
   "author": "hoshiduki melon",
   "cover": "https://files.catbox.moe/pwvqza.webp",
-  "chapters": {}
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1775839923",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9ryd325xa7k"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775839949",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/6eyr3ngvxyp"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775839995",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/pg732o9rg4r"
+      }
+    }
+  }
 }
