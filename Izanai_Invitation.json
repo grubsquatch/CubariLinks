@@ -1,0 +1,37 @@
+{
+  "title": "Izanai - Invitation",
+  "description": "",
+  "artist": "Takasugi Kou",
+  "author": "Takasugi Kou",
+  "cover": "https://files.catbox.moe/69hvtn.avif",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1775833893",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/agyvgxm8wy8"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775833894",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/m9yx59zam7q"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775833896",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9p4nqv5dw4n"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775833902",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/md7oda6rayp"
+      }
+    }
+  }
+}
