@@ -1,0 +1,51 @@
+{
+  "title": "Kind Lady, Dirty Lady",
+  "description": "",
+  "artist": "hidemaru",
+  "author": "hidemaru",
+  "cover": "https://files.catbox.moe/94tp6b.jpg",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1775833998",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/pg732dzxz4r"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775833999",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/lqyewd9b3yd"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775834002",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ej7mjagqb7d"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775834002",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/n87w89woz7x"
+      }
+    },
+    "006": {
+      "title": "",
+      "last_updated": "1775834015",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/xny8rebjo4b"
+      }
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1775834016",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/bp45jma92y5"
+      }
+    }
+  }
+}
