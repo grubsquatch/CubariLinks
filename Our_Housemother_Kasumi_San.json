@@ -1,0 +1,23 @@
+{
+  "title": "Our Housemother - Kasumi San",
+  "description": "",
+  "artist": "sakura no tomoru hie",
+  "author": "sakura no tomoru hie",
+  "cover": "https://files.catbox.moe/kk4vo5.jpg",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1775900826",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/bp45jorn2y5"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775900828",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/o24ad6lm34l"
+      }
+    }
+  }
+}
