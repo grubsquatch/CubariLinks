@@ -1,0 +1,30 @@
+{
+  "title": "Raunchy Roommates",
+  "description": "Living with roommates is easy on the wallet when you're a poor college student. But some roommates help each other out beyond just the finances...",
+  "artist": "Artist Name",
+  "author": "Author Name",
+  "cover": "https://files.catbox.moe/l3gwbf.png",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1775902508",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qb4zlp26l7j"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775902516",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ej7mjepza7d"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775902560",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/lqyewlkjzyd"
+      }
+    }
+  }
+}
