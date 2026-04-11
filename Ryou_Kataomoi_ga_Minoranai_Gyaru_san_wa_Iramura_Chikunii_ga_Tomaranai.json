@@ -1,0 +1,30 @@
+{
+  "title": "Ryou Kataomoi ga Minoranai Gyaru-san wa Iramura Chikunii ga Tomaranai!",
+  "description": "",
+  "artist": "kutsukake",
+  "author": "kutsukake",
+  "cover": "https://files.catbox.moe/8gxvni.webp",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1775904903",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/lqyewlkrqyd"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775904906",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qb4zlp2bd7j"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775904906",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qe4gzq93j7j"
+      }
+    }
+  }
+}
