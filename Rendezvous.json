@@ -1,0 +1,44 @@
+{
+  "title": "Rendezvous",
+  "description": "Yuuka is having trouble controlling her urges, so she decides to ask her tutor for advice.",
+  "artist": "Matsuka",
+  "author": "Matsuka",
+  "cover": "https://files.catbox.moe/em931d.jpg",
+  "chapters": {
+    "001": {
+      "title": "- Daytime Rendezvous",
+      "last_updated": "1775902818",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9p4nqzo254n"
+      }
+    },
+    "004": {
+      "title": "- Soiree at the Love Hotel - 1",
+      "last_updated": "1775902846",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9249mkna87n"
+      }
+    },
+    "002": {
+      "title": "- Evening Rendezvous",
+      "last_updated": "1775902861",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/a846qonx2yx"
+      }
+    },
+    "003": {
+      "title": "- Surprise Rendezvous",
+      "last_updated": "1775902868",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/m9yx5npv67q"
+      }
+    },
+    "005": {
+      "title": "- Soiree at the Love Hotel - 2",
+      "last_updated": "1775902908",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/5xy2xo5l34l"
+      }
+    }
+  }
+}
