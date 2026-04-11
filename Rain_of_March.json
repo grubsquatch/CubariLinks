@@ -1,0 +1,37 @@
+{
+  "title": "Rain of March",
+  "description": "Miyako and Mr. Futagawa have been seeing each other for a few months, though their dates can be pretty far between due to their schedules. With that in mind, Miyako wants to share something special—she wants to give Mr. Futagawa a true summer delight.",
+  "artist": "Mashiro Shirako",
+  "author": "Mashiro Shirako",
+  "cover": "https://files.catbox.moe/193u9g.jpg",
+  "chapters": {
+    "001": {
+      "title": "- Downpour",
+      "last_updated": "1775902358",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qe4gzq3ok7j"
+      }
+    },
+    "002": {
+      "title": "- Devilish Delights",
+      "last_updated": "1775902367",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/bp45joravy5"
+      }
+    },
+    "004": {
+      "title": "- Sunshower",
+      "last_updated": "1775902384",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qb4zlpbal7j"
+      }
+    },
+    "003": {
+      "title": "- Playing House",
+      "last_updated": "1775902410",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/xny8r6wbw4b"
+      }
+    }
+  }
+}
