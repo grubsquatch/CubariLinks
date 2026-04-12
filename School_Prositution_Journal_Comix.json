@@ -1,0 +1,44 @@
+{
+  "title": "School Prositution Journal (Comix)",
+  "description": "",
+  "artist": "yamamoto zenzen",
+  "author": "yamamoto zenzen",
+  "cover": "https://files.catbox.moe/33pzwf.avif",
+  "chapters": {
+    "002.5": {
+      "title": "",
+      "last_updated": "1775987474",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/na7k25nek78"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775987495",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/vj4j5n6v578"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775987509",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/wl7ll56r67x"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775987517",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/5xy2xng3n4l"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775987539",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ej7mjv6kq7d"
+      }
+    }
+  }
+}
