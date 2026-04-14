@@ -1,0 +1,37 @@
+{
+  "title": "Sex Closet ~Isourou Gal to Wagaya no Toile de~",
+  "description": "",
+  "artist": "misaoka",
+  "author": "misaoka",
+  "cover": "https://files.catbox.moe/vd3x6s.webp",
+  "chapters": {
+    "004": {
+      "title": "",
+      "last_updated": "1776145126",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/6eyr33d56yp"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1776145132",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/n87w88rqb7x"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1776145159",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ej7mjj2vj7d"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1776145167",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/pg7322j634r"
+      }
+    }
+  }
+}
