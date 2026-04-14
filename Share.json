@@ -1,0 +1,37 @@
+{
+  "title": "Share",
+  "description": "",
+  "artist": "Izayoi no Kiki",
+  "author": "Izayoi no Kiki",
+  "cover": "https://files.catbox.moe/2qyk5k.jpg",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1776173591",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/lqyewwdrzyd"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1776173595",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qb4zll5bl7j"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1776173596",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qe4gzzm3k7j"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1776173598",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/xny8rreww4b"
+      }
+    }
+  }
+}
