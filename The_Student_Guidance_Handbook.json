@@ -1,0 +1,23 @@
+{
+  "title": "The Student Guidance Handbook",
+  "description": "",
+  "artist": "Shiropaka",
+  "author": "Shiropaka",
+  "cover": "https://files.catbox.moe/7o5bxr.png",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1776184692",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/vj4j555d578"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1776184694",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/9ryd3335d7k"
+      }
+    }
+  }
+}
