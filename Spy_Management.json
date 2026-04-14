@@ -1,0 +1,23 @@
+{
+  "title": "Spy Management",
+  "description": "",
+  "artist": "Monochroid",
+  "author": "Monochroid",
+  "cover": "https://files.catbox.moe/pypizj.webp",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1776174855",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/lqyewwlp3yd"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1776174863",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qb4zllpk37j"
+      }
+    }
+  }
+}
