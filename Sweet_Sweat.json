@@ -1,0 +1,23 @@
+{
+  "title": "Sweet Sweat",
+  "description": "Sweat-filled Cocoa Summer!!!!!!!!",
+  "artist": "Tsuge Yasuna",
+  "author": "Tsuge Yasuna",
+  "cover": "https://files.catbox.moe/sh0zeh.png",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1776174946",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/bp45jjoz2y5"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1776174955",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/o24add6v34l"
+      }
+    }
+  }
+}
