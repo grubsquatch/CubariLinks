@@ -1,0 +1,23 @@
+{
+  "title": "The Mother Club's Casual Meetup",
+  "description": "",
+  "artist": "Nishi Iori",
+  "author": "Nishi Iori",
+  "cover": "https://files.catbox.moe/na90r3.jpg",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1776182629",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/na7k22nab78"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1776182632",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/5xy2xxgq94l"
+      }
+    }
+  }
+}
