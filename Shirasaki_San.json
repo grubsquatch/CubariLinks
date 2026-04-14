@@ -1,0 +1,44 @@
+{
+  "title": "Shirasaki San",
+  "description": "",
+  "artist": "Sanshoku Nerune",
+  "author": "Sanshoku Nerune",
+  "cover": "https://files.catbox.moe/9rjfzo.png",
+  "chapters": {
+    "004": {
+      "title": "",
+      "last_updated": "1776173918",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/dl7prraok4o"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1776173919",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/md7oddao9yp"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1776173925",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/ne7brrlbvy5"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1776173939",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/wl7lllabo7x"
+      }
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1776174045",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/m9yx559wk7q"
+      }
+    }
+  }
+}
