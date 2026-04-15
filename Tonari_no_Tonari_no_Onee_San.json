@@ -1,0 +1,23 @@
+{
+  "title": "Tonari no Tonari no Onee-San",
+  "description": "",
+  "artist": "Tsuyatsuya",
+  "author": "Tsuyatsuya",
+  "cover": "https://files.catbox.moe/3wjrjd.jpg",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1776261015",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/agyvganzwy8"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1776261022",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/a846qzorgyx"
+      }
+    }
+  }
+}
