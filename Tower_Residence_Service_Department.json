@@ -1,0 +1,23 @@
+{
+  "title": "Tower Residence Service Department",
+  "description": "",
+  "artist": "tomohiro kai",
+  "author": "tomohiro kai",
+  "cover": "https://files.catbox.moe/mvdjlc.webp",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1776261247",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qe4gzkqlr7j"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1776261248",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/qb4zlqp337j"
+      }
+    }
+  }
+}
