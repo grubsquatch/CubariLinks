@@ -1,0 +1,30 @@
+{
+  "title": "Unknown Feelings",
+  "description": "I wanna do it. Genuinely and all the way.",
+  "artist": "Minami Fumika",
+  "author": "Minami Fumika",
+  "cover": "https://files.catbox.moe/7dcdur.png",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1776261897",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/5xy2xmod94l"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1776261917",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/wl7lldw9q7x"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1776261921",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/vj4j5jm9x78"
+      }
+    }
+  }
+}
