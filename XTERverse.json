@@ -1,0 +1,23 @@
+{
+  "title": "XTERverse",
+  "description": "XTER and his incestverse",
+  "artist": "XTER",
+  "author": "XTER",
+  "cover": "https://files.catbox.moe/80vcsu.jpg",
+  "chapters": {
+    "001.1": {
+      "title": "- My Mother Extra EP",
+      "last_updated": "1792852764",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/lqye8nqezyd"
+      }
+    },
+    "001.2": {
+      "title": "- My Mother Beach EP",
+      "last_updated": "1792852766",
+      "groups": {
+        "Xiffy": "/proxy/api/imgchest/chapter/6eyrq5xjl7p"
+      }
+    }
+  }
+}
